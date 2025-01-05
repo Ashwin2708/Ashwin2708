@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning React Native<br>🎯 Goals: Manifesting lesser bugs and more understanding<br>🎲 Fun fact: WarHammer 40K is my favorite game, lol</p>
+
 
 ###
 
